@@ -15,7 +15,7 @@ This repository publishes the Swift Package Manager distribution of the MobileFu
 The Swift package builds the MobileFuse AdMob adapter from source. It depends on:
 
 - MobileFuse iOS SDK `1.13.0` via `https://github.com/mobilefuse/mobilefuse-ios-sdk-spm.git`
-- Google Mobile Ads SDK `11.x` via `https://github.com/googleads/swift-package-manager-google-mobile-ads.git`
+- Google Mobile Ads SDK `11.x` to `13.x` via `https://github.com/googleads/swift-package-manager-google-mobile-ads.git`
 
 ## Versioning
 
